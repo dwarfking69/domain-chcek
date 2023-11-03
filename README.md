@@ -1,0 +1,2 @@
+# domain-chcek
+checking domain
